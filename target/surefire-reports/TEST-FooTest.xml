@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FooTest" time="0.062" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FooTest" time="0.042" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="SE"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/jennifertoivanen/IdeaProjects/auto21/target/surefire/surefirebooter3140484971437806997.jar /Users/jennifertoivanen/IdeaProjects/auto21/target/surefire 2022-02-02T18-21-28_142-jvmRun1 surefire2059259617059590208tmp surefire_06183547164546939244tmp"/>
+    <property name="sun.java.command" value="/Users/jennifertoivanen/IdeaProjects/auto21/target/surefire/surefirebooter4440254529911507099.jar /Users/jennifertoivanen/IdeaProjects/auto21/target/surefire 2022-02-02T20-05-32_809-jvmRun1 surefire6619096615268577390tmp surefire_01890894596834829797tmp"/>
     <property name="surefire.test.class.path" value="/Users/jennifertoivanen/IdeaProjects/auto21/target/test-classes:/Users/jennifertoivanen/IdeaProjects/auto21/target/classes:/Users/jennifertoivanen/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/Users/jennifertoivanen/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/jennifertoivanen/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/jennifertoivanen/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/Users/jennifertoivanen/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/Users/jennifertoivanen/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/jennifertoivanen"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/jennifertoivanen/IdeaProjects/auto21/target/surefire/surefirebooter3140484971437806997.jar"/>
+    <property name="surefire.real.class.path" value="/Users/jennifertoivanen/IdeaProjects/auto21/target/surefire/surefirebooter4440254529911507099.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_301-b09"/>
@@ -44,6 +44,7 @@
     <property name="localRepository" value="/Users/jennifertoivanen/.m2/repository"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/var/folders/71/kp0hjcrn5xgds_kr7fjnypk80000gn/T/"/>
+    <property name="idea.version" value="2021.3.1"/>
     <property name="java.version" value="1.8.0_301"/>
     <property name="user.dir" value="/Users/jennifertoivanen/IdeaProjects/auto21"/>
     <property name="os.arch" value="x86_64"/>
@@ -58,6 +59,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="myMethod" classname="FooTest" time="0.045"/>
+  <testcase name="myMethod" classname="FooTest" time="0.03"/>
   <testcase name="myFalseMethod" classname="FooTest" time="0.001"/>
 </testsuite>
