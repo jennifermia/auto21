@@ -6,7 +6,8 @@ Library  DateTime
 Suite Setup     Begin Web Test
 Suite Teardown  End Web Test
 
-
+*** Variables ***
+${BROWSER} =   headlesschrome
 
 *** Test Cases ***
 Verify That Start Date Selection Value Is Current Date
